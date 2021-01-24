@@ -1,4 +1,4 @@
-# 120-years-of-Olympic-history-Pandas-and-Data-Visualization
+# Data-Visualization
 Olympics Data, Pandas &amp; Data Visualization
 Datasets:\
 The file athlete_events.csv contains 271116 rows and 15 columns. Each row corresponds to an individual athlete competing in an individual Olympic event (athlete-events). The columns are:
